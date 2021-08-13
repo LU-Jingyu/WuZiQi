@@ -1,0 +1,17 @@
+body {
+	font-size: 14px;
+}
+
+canvas {
+	display: block;
+	margin: 50px auto;
+	box-shadow: 5px 5px 5px #B9B9B9;
+
+}
+
+h1, h3 {
+	display: block;
+	width: 450px;
+	margin:25px auto;
+	text-align: center;
+}
